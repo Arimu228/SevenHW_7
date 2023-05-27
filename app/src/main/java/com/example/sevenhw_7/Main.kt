@@ -2,5 +2,6 @@ package com.example.sevenhw_7
 
 class Main {
 //sjvbsufesyifb
-    //sdsdsdsdsd
+    //sdsdsdsds
+    //task2
 }
